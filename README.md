@@ -2,6 +2,7 @@
 
 ## Find your inner DSL
 * https://mecid.github.io/2019/01/30/creating-dsl-in-swift/
+* See keynote on iCloud:"Discovering the language within your app.key"
 
 ## Getting the machine to write unit tests 
 * http://www.well-typed.com/blog/2019/01/qsm-in-depth/
